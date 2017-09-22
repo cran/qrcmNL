@@ -1,0 +1,10 @@
+df5801c066d74b2515700e54d29424e7 *DESCRIPTION
+6d75aecc077c42ad05987d1cb2a5e504 *NAMESPACE
+2bdf43fffd1900679be1197e3b60acb5 *R/qrcmNL.R
+16981a9d6ecc461d94e19904d271fbc8 *man/niqr.Rd
+3f7984db44ed06e54abbe41fc1cc364d *man/plot.niqr.Rd
+9a1daf053cd8c5d17908375814995b17 *man/predict.niqr.Rd
+16af5d4aa70dae0e72d8f40030dcf158 *man/qrcmNL-internal.Rd
+4a082a996721309ffcaa88d73782deae *man/qrcmNL-package.Rd
+f51561e9eeef44a265d51adb603c7d58 *man/summary.niqr.Rd
+2489a93d671dbec4ea5e5b7433be0111 *man/test.fit.niqr.Rd
